@@ -1,14 +1,14 @@
-# Simulação de Movimentos de Peças de Xadrez em C
+# ♟ Simulação de Movimentos de Peças de Xadrez em C
 
 Este projeto tem como objetivo aplicar conceitos fundamentais e intermediários de programação em linguagem C através da simulação dos movimentos de peças do jogo de xadrez. O código foi desenvolvido de forma progressiva, contemplando os três níveis de desafio propostos: **Novato**, **Aventureiro** e **Mestre**.
 
-## 🎯 Objetivo Geral
+## Objetivo Geral
 
 Utilizar estruturas de repetição (for, while, do-while), loops aninhados e recursividade para simular o comportamento das peças de xadrez em diferentes contextos, reforçando o domínio de controle de fluxo, boas práticas de programação e organização de código.
 
 ---
 
-## 🧩 Nível Novato
+## ♟ Nível Novato
 
 Neste primeiro estágio, foram simulados os movimentos básicos de três peças do xadrez: **Torre**, **Bispo** e **Rainha**, utilizando uma estrutura de repetição diferente para cada uma.
 
@@ -20,9 +20,11 @@ Neste primeiro estágio, foram simulados os movimentos básicos de três peças 
 
 Cada movimento foi representado com uma mensagem no console indicando a direção da peça a cada passo.
 
+Exemplo de Saida
+![image](https://github.com/user-attachments/assets/23dbdbc1-a44f-44ee-955d-03a544c76afb)
 ---
 
-## 🧗 Nível Aventureiro
+## ♟ Nível Aventureiro
 
 Neste nível, foi adicionado ao programa o movimento do **Cavalo**, que se move em formato de "L" (duas casas em uma direção e uma casa em direção perpendicular).
 
@@ -39,7 +41,7 @@ A saída exibe, passo a passo, a direção tomada pela peça em cada parte do mo
 
 ---
 
-## 🧠 Nível Mestre
+## ♟ Nível Mestre
 
 No desafio final, o projeto foi aprimorado com técnicas mais avançadas como **recursividade** e **loops aninhados complexos**, simulando comportamentos mais sofisticados.
 
@@ -61,7 +63,7 @@ No desafio final, o projeto foi aprimorado com técnicas mais avançadas como **
 
 ---
 
-## 🛠️ Estrutura do Código
+##  Estrutura do Código
 
 O código está contido em um único arquivo:
 
@@ -69,7 +71,7 @@ O código está contido em um único arquivo:
 
 ---
 
-## 🧾 Requisitos Atendidos
+## Requisitos Atendidos
 
 ### Funcionais:
 - Movimentação específica de cada peça conforme descrito nos desafios.
@@ -84,7 +86,7 @@ O código está contido em um único arquivo:
 
 ---
 
-## 📦 Como Executar
+## Como Executar
 
 Para compilar e executar o código em um ambiente com GCC:
 

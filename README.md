@@ -39,6 +39,8 @@ Neste nível, foi adicionado ao programa o movimento do **Cavalo**, que se move 
 
 A saída exibe, passo a passo, a direção tomada pela peça em cada parte do movimento.
 
+Exemplo de Saida
+![image](https://github.com/user-attachments/assets/6003ea17-1c3e-4c21-93ac-7c3aff2ae359)
 ---
 
 ## ♟ Nível Mestre
@@ -61,6 +63,8 @@ No desafio final, o projeto foi aprimorado com técnicas mais avançadas como **
 - Movimenta-se **duas casas para cima** e **uma casa para a direita**.
 - Utiliza **loops aninhados com múltiplas variáveis e condições**, além de `continue` e `break`, para tornar o controle do movimento mais preciso e dinâmico.
 
+Exemplo de Saida
+![image](https://github.com/user-attachments/assets/a8ea1de0-67d4-408a-990f-8abcb047260f)
 ---
 
 ##  Estrutura do Código
